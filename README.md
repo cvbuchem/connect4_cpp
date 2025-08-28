@@ -1,4 +1,4 @@
-## Connect 4 excercise written in C++
+## Connect 4 exercise written in C++
 
 Can compile using:
 ```g++ -std=c++17 -Iinclude src/*.cpp -o c4```
